@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+CIS 4100 GitHub
